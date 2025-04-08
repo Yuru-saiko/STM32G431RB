@@ -21,6 +21,10 @@
 #define TIM6_AUTORELOAD 50000
 #define USART1_BAUDRATE 115200
 #define USART2_BAUDRATE 115200
+<<<<<<< Updated upstream
+=======
+#define Hello hell
+>>>>>>> Stashed changes
 
 #define direction char
 #define RIGHT -1
